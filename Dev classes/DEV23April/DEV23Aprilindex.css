@@ -1,0 +1,9 @@
+/* External styling */
+a {
+    text-decoration: dotted;
+    
+}
+div{border-color:pink ;}
+a:link {color: rgb(17, 205, 205);}
+a:visited {color: rgb(213, 129, 26); }
+a:hover{color: blue;}
